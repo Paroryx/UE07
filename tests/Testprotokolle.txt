@@ -1,0 +1,436 @@
+Testprotokoll A1:
+Test machine 1
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Rubber Duck      ║
+║        production per Hour: 20.50     ║
+║        has produced: 0                ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Rubber Duck x 20             ║
+║        in 1.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Rubber Duck      ║
+║        production per Hour: 20.50     ║
+║        has produced: 20               ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Rubber Duck x 2              ║
+║        in 0.10 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Rubber Duck x 0              ║
+║        in 0.02 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Rubber Duck      ║
+║        production per Hour: 20.50     ║
+║        has produced: 22               ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Rubber Duck      ║
+║        production per Hour: 20.50     ║
+║        has produced: 22               ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+
+ Test machine 2
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pizza Funghi     ║
+║        production per Hour: 180.78    ║
+║        has produced: 0                ║
+║        service cost: 450.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pizza Funghi x 180           ║
+║        in 1.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pizza Funghi     ║
+║        production per Hour: 180.78    ║
+║        has produced: 180              ║
+║        service cost: 450.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pizza Funghi x 18            ║
+║        in 0.10 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pizza Funghi x 3             ║
+║        in 0.02 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pizza Funghi     ║
+║        production per Hour: 180.78    ║
+║        has produced: 201              ║
+║        service cost: 450.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pizza Funghi     ║
+║        production per Hour: 180.78    ║
+║        has produced: 201              ║
+║        service cost: 450.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+
+ Test machine 3
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pancake  ║
+║        production per Hour: 12.40     ║
+║        has produced: 0                ║
+║        service cost: 210.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pancake x 12                 ║
+║        in 1.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pancake  ║
+║        production per Hour: 12.40     ║
+║        has produced: 12               ║
+║        service cost: 210.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pancake x 1          ║
+║        in 0.10 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pancake x 0          ║
+║        in 0.02 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pancake  ║
+║        production per Hour: 12.40     ║
+║        has produced: 13               ║
+║        service cost: 210.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Pancake  ║
+║        production per Hour: 12.40     ║
+║        has produced: 13               ║
+║        service cost: 210.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+
+ Test machine 4
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Copper Ingot     ║
+║        production per Hour: 22.50     ║
+║        has produced: 0                ║
+║        service cost: 850.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Copper Ingot x 22            ║
+║        in 1.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Copper Ingot     ║
+║        production per Hour: 22.50     ║
+║        has produced: 22               ║
+║        service cost: 850.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Copper Ingot x 2             ║
+║        in 0.10 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Copper Ingot x 0             ║
+║        in 0.02 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Copper Ingot     ║
+║        production per Hour: 22.50     ║
+║        has produced: 24               ║
+║        service cost: 850.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: Copper Ingot     ║
+║        production per Hour: 22.50     ║
+║        has produced: 24               ║
+║        service cost: 850.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+
+ Test machine 5
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: T-Shirt  ║
+║        production per Hour: 13.20     ║
+║        has produced: 0                ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced T-Shirt x 13                 ║
+║        in 1.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: T-Shirt  ║
+║        production per Hour: 13.20     ║
+║        has produced: 13               ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced T-Shirt x 1          ║
+║        in 0.10 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced T-Shirt x 0          ║
+║        in 0.02 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: T-Shirt  ║
+║        production per Hour: 13.20     ║
+║        has produced: 14               ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: T-Shirt  ║
+║        production per Hour: 13.20     ║
+║        has produced: 14               ║
+║        service cost: 150.00 Euro      ║
+╚═══════════════════════════════════════╝
+
+
+ Test machine 6
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: broken machine   ║
+║        production per Hour: 0.00      ║
+║        has produced: 0                ║
+║        service cost: 0.00 Euro        ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced broken machine x 0           ║
+║        in 1.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: broken machine   ║
+║        production per Hour: 0.00      ║
+║        has produced: 0                ║
+║        service cost: 0.00 Euro        ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced broken machine x 0           ║
+║        in 0.10 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced broken machine x 0           ║
+║        in 0.02 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: broken machine   ║
+║        production per Hour: 0.00      ║
+║        has produced: 0                ║
+║        service cost: 0.00 Euro        ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║                Machine                ║
+?───────────────────────────────────────?
+║        product name: broken machine   ║
+║        production per Hour: 0.00      ║
+║        has produced: 0                ║
+║        service cost: 0.00 Euro        ║
+╚═══════════════════════════════════════╝
+
+
+ Test factory 1
+╔═══════════════════════════════════════╗
+║ produced Rubber Duck x 164            ║
+║        in 8.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pizza Funghi x 1446          ║
+║        in 8.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Pancake x 99                 ║
+║        in 8.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced Copper Ingot x 180           ║
+║        in 8.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced T-Shirt x 105                ║
+║        in 8.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║        no machines at index 5         ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ produced broken machine x 0           ║
+║        in 8.00 hour(s)                ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ Factory Service costs: 1810.00        ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║        no machines at index 5         ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ machines cannot travel back in time   ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║ Factory Service costs: 1810.00        ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║        no machines in factory         ║
+╚═══════════════════════════════════════╝
+
+Factoy service costs of empty factory: 0.00
+
+Testprotokoll A2:
+
+Fabric 1 (Bentley Fabric):
+[Wheel, Wheel, Tyre, Tyre, Bentley-Logo, Tyre, Tyre, Tyre, Tyre, Tyre, Tyre, Bentley-Logo, Bentley-Logo]
+Produced: 2 Bentley
+[Bentley, Bentley, null, null, null, null, null, null, null, null, null, null, Bentley-Logo]
+
+Fabric 2 (Feline Retreat Factory):
+[Soft Fur, Soft Fur, Cozy Bed, Sisal Scratcher, Feather Toy, Feather Toy, Soft Fur, null, null, null]
+Produced: 1 Feline Retreat
+[Feline Retreat, null, null, null, null, null, null, null, null, null]
+
+Fabric 3 (Tech Titan Factory):
+[Quantum Processor, Plasma Core, Neutrino Battery, Quantum Processor, null, null, null, null, null, null, null, null, null, null, null]
+Produced: 0 Tech Titan
+[Quantum Processor, Plasma Core, Neutrino Battery, Quantum Processor, null, null, null, null, null, null, null, null, null, null, null]
